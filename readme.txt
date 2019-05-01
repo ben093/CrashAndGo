@@ -1,0 +1,2 @@
+Notes: 
+To run a program in go after installing it (http://golang.com), first open command prompt. Navigate to the directory where the program is located (crash.go) and type "go run crash.go", or "go run <program_name>".
